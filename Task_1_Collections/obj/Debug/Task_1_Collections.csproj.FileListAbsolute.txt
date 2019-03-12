@@ -1,0 +1,7 @@
+C:\Users\koshk\source\repos\Task_1_Collections\bin\Debug\Task_1_Collections.exe.config
+C:\Users\koshk\source\repos\Task_1_Collections\bin\Debug\Task_1_Collections.exe
+C:\Users\koshk\source\repos\Task_1_Collections\bin\Debug\Task_1_Collections.pdb
+C:\Users\koshk\source\repos\Task_1_Collections\obj\Debug\Task_1_Collections.csprojAssemblyReference.cache
+C:\Users\koshk\source\repos\Task_1_Collections\obj\Debug\Task_1_Collections.csproj.CoreCompileInputs.cache
+C:\Users\koshk\source\repos\Task_1_Collections\obj\Debug\Task_1_Collections.exe
+C:\Users\koshk\source\repos\Task_1_Collections\obj\Debug\Task_1_Collections.pdb
