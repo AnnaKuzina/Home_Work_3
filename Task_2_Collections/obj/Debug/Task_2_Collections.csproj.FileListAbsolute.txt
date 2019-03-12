@@ -1,7 +1,0 @@
-C:\Users\koshk\source\repos\Task_2_Collections\bin\Debug\Task_2_Collections.exe.config
-C:\Users\koshk\source\repos\Task_2_Collections\bin\Debug\Task_2_Collections.exe
-C:\Users\koshk\source\repos\Task_2_Collections\bin\Debug\Task_2_Collections.pdb
-C:\Users\koshk\source\repos\Task_2_Collections\obj\Debug\Task_2_Collections.csprojAssemblyReference.cache
-C:\Users\koshk\source\repos\Task_2_Collections\obj\Debug\Task_2_Collections.csproj.CoreCompileInputs.cache
-C:\Users\koshk\source\repos\Task_2_Collections\obj\Debug\Task_2_Collections.exe
-C:\Users\koshk\source\repos\Task_2_Collections\obj\Debug\Task_2_Collections.pdb
