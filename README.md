@@ -5,6 +5,7 @@ Enter few items from keyboard to this List. You should receive a message if you�
 When you’re done, you should output the list twice: first time – as entered, second time – sorted descending.
 
 Optional Task 1* - If entered list has more than 2 items - remove all items from the list, except first and last one. Output the result.
+
 ![task1](https://github.com/AnnaKuzina/Home_Work_3/blob/master/task1.JPG)
 
 Task 2
@@ -16,6 +17,7 @@ Program should output student and his mark (please refer to screenshot) if this 
 Optional Task 2* - If you input value for a mark (e.g. 3), you should see all surnames of the students who got this mark. 
 
 Please look at TryGetValue() and ContainsKey() methods to implement this task.
+
 ![task2](https://github.com/AnnaKuzina/Home_Work_3/blob/master/task2.JPG)
 
 Task 3 
