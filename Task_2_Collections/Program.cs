@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -45,7 +45,7 @@ namespace Task_2_Collections
                 }
             }
 
-           do
+            do
             {
                 Console.WriteLine("Please enter surnaame to see student's mark or a mark to see all students with it:" +
                                        " \nOr enter 'exit' to exit: ");
@@ -81,7 +81,7 @@ namespace Task_2_Collections
         {
             if (dictionary.ContainsKey(input))
             {
-                int mark = dictionary[input];
+                dictionary.TryGetValue(input, out int mark);
                 Console.WriteLine($"Student {input}  received a {mark}");
             }
             else if (input != "exit")
