@@ -1,0 +1,7 @@
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\Task_3_Collections\bin\Debug\Task_3_Collections.exe.config
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\Task_3_Collections\bin\Debug\Task_3_Collections.exe
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\Task_3_Collections\bin\Debug\Task_3_Collections.pdb
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\Task_3_Collections\obj\Debug\Task_3_Collections.csprojAssemblyReference.cache
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\Task_3_Collections\obj\Debug\Task_3_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\Task_3_Collections\obj\Debug\Task_3_Collections.exe
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\Task_3_Collections\obj\Debug\Task_3_Collections.pdb
