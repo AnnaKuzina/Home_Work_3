@@ -1,0 +1,15 @@
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\bin\Debug\netcoreapp2.1\NUnitTestCollections.deps.json
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\bin\Debug\netcoreapp2.1\NUnitTestCollections.runtimeconfig.json
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\bin\Debug\netcoreapp2.1\NUnitTestCollections.runtimeconfig.dev.json
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\bin\Debug\netcoreapp2.1\NUnitTestCollections.dll
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\bin\Debug\netcoreapp2.1\NUnitTestCollections.pdb
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\obj\Debug\netcoreapp2.1\NUnitTestCollections.csprojAssemblyReference.cache
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\obj\Debug\netcoreapp2.1\NUnitTestCollections.csproj.CoreCompileInputs.cache
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\obj\Debug\netcoreapp2.1\NUnitTestCollections.AssemblyInfoInputs.cache
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\obj\Debug\netcoreapp2.1\NUnitTestCollections.AssemblyInfo.cs
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\obj\Debug\netcoreapp2.1\NUnitTestCollections.dll
+C:\Users\Anna_Kuzina1\source\repos\Task_3_Collections\NUnitTestCollections\obj\Debug\netcoreapp2.1\NUnitTestCollections.pdb
